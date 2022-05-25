@@ -11,9 +11,7 @@ body {
   color: #212121;
   line-height: 1.5;
   background-image: url('../img/worl-map.png');
-  background-size: 100%;
   background-repeat: no-repeat;
-  background-position: center;  
 }
 
 #search-box {
